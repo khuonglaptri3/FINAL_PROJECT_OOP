@@ -11,8 +11,12 @@ namespace FINAL_PROJECT_OOP
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// alo alo alo
+        /// con me may Khuong
+        //
+
         [STAThread]
-        static void Main()
+        public static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
